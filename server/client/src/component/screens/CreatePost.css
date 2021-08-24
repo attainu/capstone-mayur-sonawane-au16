@@ -1,0 +1,24 @@
+.input-field-wraper{
+    max-width: 600px;
+    margin: 90px auto;
+    padding: 20px; 
+    text-align: center;
+    border-radius: 10px;
+}
+
+.btn{
+    border-radius: 5px;
+    text-transform: none;
+    font-size: 16px;
+}
+
+.input-field input[type=text]:focus {
+    border-bottom: 1px solid #64b5f6 !important;
+    box-shadow: 0 1px 0 0 #64b5f6 !important;
+}
+
+.input-field input[type=file]:focus {
+    border-bottom: 1px solid #64b5f6 !important;
+    box-shadow: 0 1px 0 0 #64b5f6 !important;
+}
+

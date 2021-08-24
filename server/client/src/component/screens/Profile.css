@@ -1,0 +1,49 @@
+
+
+.profile-img-name-wrapper{
+    display: flex;
+    justify-content: space-around;
+    margin : 18px 0px;
+    border-bottom: 1px solid rgb(199, 193, 193);
+}
+
+.profile-img{
+    width : 210px;
+    height: 210px;
+    border-radius: 105px;
+}
+
+.posts-followers{
+    display:flex;
+}
+
+.posts-followers h5{
+    margin-right: 15px;
+}
+
+.name-post-wrapper{
+    padding-left: 15px;
+}
+
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.item{
+    width: 400px;
+    margin: 10px 0px; 
+}
+
+/* .photo-div{
+    height: 80% !important;
+} */
+
+.myposts-photo{
+    height: 300px !important;
+}
+
+.home-card{
+    width: 420px;
+}

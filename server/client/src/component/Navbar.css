@@ -1,0 +1,10 @@
+.collection-item{
+    width: 100%;
+}
+
+.profile-pic{
+    margin: 6px;
+    height: 30px !important;
+    width : 30px !important;
+    border-radius: 15px !important;
+}

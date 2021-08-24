@@ -1,0 +1,47 @@
+.home-card{
+    max-width: 500px;
+    height: max-content;
+    margin: 26px auto;
+    border-radius: 10px;
+}
+
+.user-name{
+    margin: 3px 0px 0px 10px;
+}
+
+.material-icons{
+    cursor: pointer;
+}
+
+.liked{
+    color: #e53935;
+}
+
+.delete-icon{
+    padding-top: 5px;
+    margin: 0px 10px 10px 10px;
+    
+}
+
+.delete-comment{
+    margin: 0px;
+    padding : 0px;
+    float: right;
+    font-size: 20px;
+}
+
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+.profile-pic{
+    margin: 6px;
+    height: 30px !important;
+    width : 30px !important;
+    border-radius: 15px !important;
+}
+
+.img-name{
+    display: flex;
+}
